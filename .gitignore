@@ -148,3 +148,8 @@ cython_debug/
 *.metadata
 *.snapshot
 *.pb
+
+*.yaml
+*.faiss
+*.db
+mlruns/
